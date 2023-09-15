@@ -13,6 +13,12 @@ import sys
 # The function accepts INTEGER_ARRAY c as parameter.
 #
 
+# Input (stdin)
+# n = 7
+# c = 0 0 1 0 0 1 0
+# Expected Output
+# 4
+
 def jumpingOnClouds(c):
     # Write your code here
     cloud = 0
